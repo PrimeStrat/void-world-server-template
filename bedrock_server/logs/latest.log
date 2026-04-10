@@ -1,0 +1,115 @@
+[14:06:03] [7808/INFO]: setting up server logging...
+[14:06:03] [7808/INFO]: Starting Server
+[14:06:03] [7808/INFO]: Version: 1.26.3.1
+[14:06:03] [7808/INFO]: Session ID: e12fc132-8364-4338-95b2-4476f3271947
+[14:06:03] [7808/INFO]: Build ID: 41676400
+[14:06:03] [7808/INFO]: Branch: r/26_u0
+[14:06:03] [7808/INFO]: Commit ID: 04071b68ba0b36d495650bcab8ec3c5d30b73f13
+[14:06:03] [7808/INFO]: Configuration: Publish
+[14:06:03] [7808/INFO]: Level Name: WMCT
+[14:06:03] [7808/INFO]: No CDN config file found at: cdn_config.json for dedicated server
+[14:06:03] [7808/INFO]: Game mode: 2 Adventure
+[14:06:03] [7808/INFO]: Difficulty: 2 NORMAL
+[14:06:03] [7808/INFO]: Content logging to console is enabled.
+[14:06:03] [7808/INFO]: This server is running Endstone version: 0.11.2 (Minecraft: 26.3)
+[14:06:03] [11776/INFO]: Loading packs from 'resource_packs' (Resources)
+[14:06:04] [7808/INFO]: Experiment(s) active: ucft, gtst
+[14:06:04] [7808/INFO]: Pack Stack - [00] WMCT Season 3 (id: 5692ec9d-b22b-4037-b999-3127842b27ff, version: 1.0.0) @ worlds/WMCT/behavior_packs/WMCTS3_BP
+[14:06:04] [7808/INFO]: Pack Stack - [01] WMCT Season 3 BETA (id: 8824747d-0674-4e25-a854-db9ed6e89e19, version: 1.0.0) @ worlds/WMCT/behavior_packs/WMCTS3_BETA_BP
+[14:06:06] [7808/INFO]: IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[14:06:06] [7808/INFO]: IPv6 supported, port: 19133: Used for gameplay
+[14:06:09] [7808/INFO]: [Endweave] Loading endweave v0.2.2
+[14:06:09] [7808/INFO]: Waiting for Minecraft services...
+[14:06:09] [7808/INFO]: Server started.
+[14:06:09] [7808/INFO]: ================ TELEMETRY MESSAGE ===================
+[14:06:09] [7808/INFO]: Server Telemetry is currently not enabled. 
+[14:06:09] [7808/INFO]: Enabling this telemetry helps us improve the game.
+[14:06:09] [7808/INFO]: To enable this feature, add the line 'emit-server-telemetry=true'
+[14:06:09] [7808/INFO]: to the server.properties file in the handheld/src-server directory
+[14:06:09] [7808/INFO]: ======================================================
+[14:06:09] [44004/INFO]: Packet limit config updated
+[14:06:09] [44004/INFO]: [Endweave] Enabling endweave v0.2.2
+[14:06:09] [44004/INFO]: [Endweave] Detected server protocol 924 (MC 1.26.3)
+[14:06:09] [44004/INFO]: [Endweave] Supported client versions: 1.26.0-1.26.10
+[14:06:09] [44004/WARNING]: [Scripting] [DEBUG] Loading data for ID: season3:test1 from endpoint: /load / eventScores
+[14:06:09] [44004/WARNING]: 
+[14:06:09] [44004/WARNING]: [Scripting] [DEBUG] Main config was registered
+[14:06:09] [44004/WARNING]: 
+[14:06:09] [44004/WARNING]: [Scripting] [DEBUG] Cached dimension object as minecraft:overworld
+[14:06:09] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Game tick area removed
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Debug Event Gamerules Applied!
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Game tick area removed
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Game tick area removed
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [LOG] Game tick area set around {"x":-165,"y":0,"z":155} and {"x":165,"y":100,"z":-155}
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Requesting: https://api.wmct-event.com/load?id=season3:test1&type=eventScores
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Is API Request: true
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Is Using API Key: true
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] With: Get
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Response status: 200
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Response body: {"success":true,"data":{"success":true,"data":{"players":[],"teamRoster":{"Staff Team":{"members":["PrimeStrat"],"teamId":7,"teamIcon":"","teamColor":"q"}},"data":{"players":[],"scores":{},"scoresMult":{},"breakdown":{},"teamRoster":{"Staff Team":{"members":["PrimeStrat"],"teamId":7,"teamIcon":"","teamColor":"q"}},"teamTotals":{},"teamTotalsMult":{},"teamBreakdowns":{},"teamBreakdownsMult":{},"isLive":false,"isComplete":false,"eventProgress":0,"meta":{"savedAt":1771626458956,"version":2,"isCanon":false}},"meta":{"savedAt":1773702137364,"version":5}}}}
+[14:06:10] [44004/WARNING]: 
+[14:06:10] [44004/WARNING]: [Scripting] [DEBUG] Load result for season3:test1 / eventScores: {"success":true,"data":{"players":[],"teamRoster":{"Staff Team":{"members":["PrimeStrat"],"teamId":7,"teamIcon":"","teamColor":"q"}},"data":{"players":[],"scores":{},"scoresMult":{},"breakdown":{},"teamRoster":{"Staff Team":{"members":["PrimeStrat"],"teamId":7,"teamIcon":"","teamColor":"q"}},"teamTotals":{},"teamTotalsMult":{},"teamBreakdowns":{},"teamBreakdownsMult":{},"isLive":false,"isComplete":false,"eventProgress":0,"meta":{"savedAt":1771626458956,"version":2,"isCanon":false}},"meta":{"savedAt":1773702137364,"version":5}}}
+[14:06:10] [44004/WARNING]: 
+[14:06:34] [44004/INFO]: Player connected: PrimeStrat, xuid: 2533274974099329
+[14:06:36] [44004/INFO]: Player Spawned: PrimeStrat xuid: 2533274974099329, pfid: 3736E3824B63BA88
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Team Change (local):
+[14:06:36] [44004/WARNING]: Name - PrimeStrat
+[14:06:36] [44004/WARNING]: Team - 7
+[14:06:36] [44004/WARNING]: Tag - staff
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Individual config was registered for PrimeStrat
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [NETWORK] Loading data from server for PrimeStrat
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Loading data for ID: PrimeStrat from endpoint: /load / core
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Requesting: https://api.wmct-event.com/load?id=PrimeStrat&type=core
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Is API Request: true
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Is Using API Key: true
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] With: Get
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Requesting: https://api.wmct-event.com/save
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Is API Request: true
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Is Using API Key: true
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] With: Post
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Body: {"id":"season3:test1","type":"eventScores","version":1,"payload":{"success":true,"data":{"players":[],"teamRoster":{"Staff Team":{"members":["PrimeStrat"],"teamId":7,"teamIcon":"","teamColor":"q"}},"data":{"players":[],"scores":{},"scoresMult":{},"breakdown":{},"teamRoster":{"Staff Team":{"members":["PrimeStrat"],"teamId":7,"teamIcon":"","teamColor":"q"}},"teamTotals":{},"teamTotalsMult":{},"teamBreakdowns":{},"teamBreakdownsMult":{},"isLive":false,"isComplete":false,"eventProgress":0,"meta":{"savedAt":1771626458956,"version":2,"isCanon":false}},"meta":{"savedAt":1774375596350,"version":5}}}}
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Response status: 200
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Response body: {"success":true,"data":{"unlocks":{"anna_hat":true},"equipped":[],"teamsPlayed":[],"teamsWon":[],"avgScore":{"season1":{"all":0,"canon":0,"nonCanon":0}},"avgScoreMult":{"season1":{"all":0,"canon":0,"nonCanon":0}},"highestScore":{"season1":{"all":0,"canon":0,"nonCanon":0}},"highestScoreMult":{"season1":{"all":0,"canon":0,"nonCanon":0}},"totalEvents":{},"parkourRecords":{"lab_a":{"checkpoints":[61,59,66,95],"completionTime":281}},"meta":{"version":4}}}
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Load result for PrimeStrat / core: {"unlocks":{"anna_hat":true},"equipped":[],"teamsPlayed":[],"teamsWon":[],"avgScore":{"season1":{"all":0,"canon":0,"nonCanon":0}},"avgScoreMult":{"season1":{"all":0,"canon":0,"nonCanon":0}},"highestScore":{"season1":{"all":0,"canon":0,"nonCanon":0}},"highestScoreMult":{"season1":{"all":0,"canon":0,"nonCanon":0}},"totalEvents":{},"parkourRecords":{"lab_a":{"checkpoints":[61,59,66,95],"completionTime":281}},"meta":{"version":4}}
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Response status: 200
+[14:06:36] [44004/WARNING]: 
+[14:06:36] [44004/WARNING]: [Scripting] [DEBUG] Response body: {"success":true}
+[14:06:36] [44004/WARNING]: 
+[14:06:37] [44004/WARNING]: [Scripting] [DEBUG] Checking NPC spawn queue
+[14:06:37] [44004/WARNING]: 
+[14:06:37] [44004/WARNING]: [Scripting] [DEBUG] NPC checks closed
+[14:06:37] [44004/WARNING]: 
+[14:06:42] [44004/INFO]: PrimeStrat joined the game
+[14:07:16] [44004/INFO]: PrimeStrat issued server command: /unlocks PrimeStrat list
+[14:07:16] [44004/WARNING]: [Scripting] [NETWORK] Returning cached data for PrimeStrat
+[14:07:16] [44004/WARNING]: 
+[14:07:40] [44004/INFO]: Server stop requested.
+[14:07:40] [7808/INFO]: Stopping server...
+[14:07:40] [44004/INFO]: [Endweave] Disabling endweave v0.2.2
